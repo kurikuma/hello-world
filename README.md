@@ -1,4 +1,4 @@
 # hello-world
-tutorial trial.
+tutorial trial version.
 ## as of 2016/11/15
 _test commit_
